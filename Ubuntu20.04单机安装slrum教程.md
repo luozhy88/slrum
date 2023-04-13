@@ -1,4 +1,4 @@
-#安装过程参考
+# 安装过程参考
 https://wxyhgk.com/article%2Fubuntu-slurm
 # 测试 sbatch 服务
 vim test.slurm
