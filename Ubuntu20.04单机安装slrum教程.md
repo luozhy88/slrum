@@ -38,3 +38,5 @@ conda deactivate
 
 
 "
+# 集群管理
+学习中https://yuhldr.github.io/posts/bfa79f01.html
