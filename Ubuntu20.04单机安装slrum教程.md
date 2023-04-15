@@ -4,6 +4,8 @@ https://wxyhgk.com/article%2Fubuntu-slurm
 # 测试邮件系统
 echo "邮件内容" | s-nail -s "邮件主题" 你的qq邮箱地址
 
+# 常用命令
+squeue -u johnsmith #johnsmith是用户名
 
 # 测试 sbatch 服务
 
