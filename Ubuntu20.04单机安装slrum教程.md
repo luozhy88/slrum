@@ -7,6 +7,7 @@ echo "邮件内容" | s-nail -s "邮件主题" 你的qq邮箱地址
 # 常用命令
 squeue -u johnsmith #johnsmith是用户名  查看队列情况  
 sudo systemctl restart slurmctld ##restart
+sinfo -p batch #查看可用资源  
 
 
 # 测试 sbatch 服务
