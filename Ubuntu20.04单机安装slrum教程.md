@@ -30,7 +30,7 @@ whoami
 "
 
 #!/bin/bash  
-#SBATCH -J SRR1927149  
+#SBATCH -J test_slurm
 #SBATCH -p user-NF8480M5  
 #SBATCH -N 1  
 #SBATCH -n 1  
