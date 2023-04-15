@@ -1,6 +1,12 @@
 # 安装过程参考
 https://wxyhgk.com/article%2Fubuntu-slurm
+
+# 测试邮件系统
+echo "邮件内容" | s-nail -s "邮件主题" 你的qq邮箱地址
+
+
 # 测试 sbatch 服务
+
 vim test.slurm
 
 """
