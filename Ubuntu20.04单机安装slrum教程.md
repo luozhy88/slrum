@@ -5,9 +5,10 @@ https://wxyhgk.com/article%2Fubuntu-slurm
 echo "邮件内容" | s-nail -s "邮件主题" 你的qq邮箱地址
 
 # 常用命令
-squeue -u johnsmith #johnsmith是用户名  查看队列情况  
+squeue -u zhiyu #johnsmith是用户名  查看队列情况  
 sudo systemctl restart slurmctld ##restart  
 sinfo -p batch #查看可用资源  
+scancel -u [username] #中断所有任务
 
 
 # 测试 sbatch 服务
